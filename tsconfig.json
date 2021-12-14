@@ -3,10 +3,11 @@
     "baseUrl": ".",
     "paths": {
       "*": ["src/*"],
-      "components/*": ["src/components/*"],
       "adapters/*": ["src/adapters/*"],
-      "screens/*": ["src/screens/*"],
+      "components/*": ["src/components/*"],
       "interfaces/*": ["src/interfaces/*"],
+      "navigation/*": ["src/navigation/*"],
+      "screens/*": ["src/screens/*"],
       "server/*": ["src/server/*"],
       "sevices/*": ["src/services/*"],
       "styles/*": ["src/styles/*"],
